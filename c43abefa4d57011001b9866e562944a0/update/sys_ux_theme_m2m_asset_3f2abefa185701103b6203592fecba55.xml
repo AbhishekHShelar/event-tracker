@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Cabin">b32abefaf2570110c01d540316d01b57</asset>
+        <properties>{&#13;
+	"font-style":"normal",&#13;
+    "font-weight":"700"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3f2abefa185701103b6203592fecba55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_3f2abefa185701103b6203592fecba55</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:35</sys_updated_on>
+        <theme display_value="Team Contacts Theme">b32abefac05701104b63afa4453d159e</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

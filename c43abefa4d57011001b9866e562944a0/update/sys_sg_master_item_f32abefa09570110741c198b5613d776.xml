@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sys_user</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My Teammates">372abefa625701109c63cace6e3a707f</embedded_screen>
+        <item_view/>
+        <name>My Teammates Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:01</sys_created_on>
+        <sys_id>f32abefa09570110741c198b5613d776</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Teammates Main Item</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_master_item_f32abefa09570110741c198b5613d776</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:01</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Teammates View Config">772abefa125701104e289844cd134474</view_config>
+    </sys_sg_master_item>
+</record_update>

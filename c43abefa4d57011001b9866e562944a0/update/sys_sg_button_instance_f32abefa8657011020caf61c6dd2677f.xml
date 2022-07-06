@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Mobile phone">7f2abefa6c57011041b7ed7a7f01bf80</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name>mobile_phone</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>20</order>
+        <parent>f72abefa42570110f197bc242174dc7f</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:44</sys_created_on>
+        <sys_id>f32abefa8657011020caf61c6dd2677f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f32abefa8657011020caf61c6dd2677f</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:44</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f32abefa8657011020caf61c6dd2677f"/>
+</record_update>

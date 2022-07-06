@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script_include">
+    <sys_ux_client_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <api_name>x_808219_btfu.TeamContactsHelper</api_name>
+        <includes/>
+        <name>TeamContactsHelper</name>
+        <required_translations/>
+        <script><![CDATA[function include({ imports }) {
+   const buildTablePayload = () => {
+        return {
+            "relationshipContactTable": "x_808219_btfu_relationship_contact",
+            "relationshipReminderTable": "x_808219_btfu_relationship_contact_reminders",
+            "relationshipNotesTable": "x_808219_btfu_relationship_notes"
+        };
+    };
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script_include</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:38</sys_created_on>
+        <sys_id>ff2abefa6b5701108cffd6aa7e6f765d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TeamContactsHelper</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_ux_client_script_include_ff2abefa6b5701108cffd6aa7e6f765d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:38</sys_updated_on>
+    </sys_ux_client_script_include>
+</record_update>

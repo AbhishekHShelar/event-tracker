@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:10</sys_created_on>
+        <sys_id>3b2abefad2570110dab965733e0c7c6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3b2abefad2570110dab965733e0c7c6b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:10</sys_updated_on>
+        <view_config display_value="Notes - Relationship Table View Config">b72abefa9b570110f95bcdd9ce2f5374</view_config>
+        <view_template_slot display_value="3096cff7-4785-1920-d502-e339c6950236">3b2abefa2a5701104d37fe24d2bc506d</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

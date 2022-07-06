@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state display_value="Empty State Favorites">372abefa9c5701104193b30192f1bb7b</empty_state>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows/>
+        <name>Item Stream Segment</name>
+        <order>10</order>
+        <screen display_value="Saved Employees">f32abefa11570110b1b1cf8226177381</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:28</sys_created_on>
+        <sys_id>772abefa3d5701102161e4d41a55b076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item Stream Segment</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_772abefa3d5701102161e4d41a55b076</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:28</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

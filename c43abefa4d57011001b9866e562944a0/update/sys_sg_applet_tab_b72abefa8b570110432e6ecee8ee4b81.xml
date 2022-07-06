@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_tab">
+    <sys_sg_applet_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <icon display_value="Star">d2fb41a2b72200108223e126de11a99e</icon>
+        <label>Favorites</label>
+        <screen display_value="Saved Employees">f32abefa11570110b1b1cf8226177381</screen>
+        <sys_class_name>sys_sg_applet_tab</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:41</sys_created_on>
+        <sys_id>b72abefa8b570110432e6ecee8ee4b81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Favorites</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_applet_tab_b72abefa8b570110432e6ecee8ee4b81</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:41</sys_updated_on>
+    </sys_sg_applet_tab>
+</record_update>

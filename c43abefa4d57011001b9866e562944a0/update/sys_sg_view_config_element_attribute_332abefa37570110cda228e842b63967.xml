@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="ImageURL">4f1f59c2b7321010df65f6efce11a9d0</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:36</sys_created_on>
+        <sys_id>332abefa37570110cda228e842b63967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4f1f59c2b7321010df65f6efce11a9d0</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_332abefa37570110cda228e842b63967</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:36</sys_updated_on>
+        <translated_value/>
+        <value>307ee9455bd8a010da168d8fa881c76e</value>
+        <view_config_element display_value="Image">332abefa9b570110a7d158ce0786d46c</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=332abefa37570110cda228e842b63967"/>
+</record_update>

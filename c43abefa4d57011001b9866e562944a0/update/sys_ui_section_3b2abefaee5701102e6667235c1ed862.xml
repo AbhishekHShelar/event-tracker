@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3b2abefaee5701102e6667235c1ed862" sys_domain="global" table="x_808219_btfu_relationship_notes" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>732abefa5c570110e985e4100b313263</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relationship</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>fb2abefac857011098ddf2f9f54d0b62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>bf2abefa73570110142678656ebe1a62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_date</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>7f2abefa8b5701109598d5022311be61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_location</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>ff2abefa5d570110c8163de266a58d61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>372abefa6157011043bc8b0d0e778162</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note</element>
+            <position>6</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_id>b72abefade5701101769e5b2b3986762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808219_btfu_relationship_notes" sys_domain="global" view="Default view">3b2abefaee5701102e6667235c1ed862</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_808219_btfu_relationship_notes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-05-10 11:44:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b2abefaee5701102e6667235c1ed862</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_808219_btfu_relationship_notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+            <sys_update_name>sys_ui_section_3b2abefaee5701102e6667235c1ed862</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-05-10 11:44:29</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

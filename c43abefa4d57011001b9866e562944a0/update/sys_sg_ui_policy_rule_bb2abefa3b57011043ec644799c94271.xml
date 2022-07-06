@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_policy_rule">
+    <sys_sg_ui_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>phone</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_sg_ui_policy_rule</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:01</sys_created_on>
+        <sys_id>bb2abefa3b57011043ec644799c94271</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>phone</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_ui_policy_rule_bb2abefa3b57011043ec644799c94271</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:01</sys_updated_on>
+        <table>sys_user</table>
+        <ui_policy display_value="Hide business phone if empty">f72abefa8f5701105a3b2af58152c371</ui_policy>
+        <visible>false</visible>
+    </sys_sg_ui_policy_rule>
+</record_update>

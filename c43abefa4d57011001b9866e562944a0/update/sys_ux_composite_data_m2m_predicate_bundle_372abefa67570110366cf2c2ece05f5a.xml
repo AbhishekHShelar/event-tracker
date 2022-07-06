@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Team Contact Search">bf2abefa83570110fc9aed2b9faed15b</dataset>
+        <order>100</order>
+        <predicate_bundle display_value="Team Contact Search Bundle">3b2abefa805701107ff134d65d9f805a</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:15</sys_created_on>
+        <sys_id>372abefa67570110366cf2c2ece05f5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_372abefa67570110366cf2c2ece05f5a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:15</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

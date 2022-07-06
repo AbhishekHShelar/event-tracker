@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Team Contacts Config">3f2abefa5457011027e11358eb98239f</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>ALL EMPLOYEES</name>
+        <optional_parameters/>
+        <order>1</order>
+        <parent_macroponent display_value="Home">f32abefa625701101fdd28b6c32cb061</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>all-employees</route_type>
+        <screen_type display_value="ALL EMPLOYEES">7f2abefaa6570110720b1884450cfa5e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:15</sys_created_on>
+        <sys_id>332abefad7570110d17ba5e16551a25f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ALL EMPLOYEES</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_ux_app_route_332abefad7570110d17ba5e16551a25f</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:15</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=332abefad7570110d17ba5e16551a25f"/>
+</record_update>

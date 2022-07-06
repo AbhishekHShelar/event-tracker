@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Note">772abefab6570110435383377eaf5d85</button>
+        <item_parameter display_value="Reason">f72abefacc57011027a3f64836b03a83</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:26</sys_created_on>
+        <sys_id>7b2abefa6d570110252a154c19289883</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f72abefacc57011027a3f64836b03a83</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_7b2abefa6d570110252a154c19289883</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:26</sys_updated_on>
+        <ui_parameter display_value="Reason for contact">332abefaab570110f40325a700971084</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

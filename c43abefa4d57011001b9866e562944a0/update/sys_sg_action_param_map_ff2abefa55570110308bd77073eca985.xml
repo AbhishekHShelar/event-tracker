@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Reminder">b72abefa12570110757f9a6b878e2285</button>
+        <item_parameter display_value="Notification_subject">3f2abefa8157011026b0071383dd5e85</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:00</sys_created_on>
+        <sys_id>ff2abefa55570110308bd77073eca985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3f2abefa8157011026b0071383dd5e85</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ff2abefa55570110308bd77073eca985</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:00</sys_updated_on>
+        <ui_parameter display_value="Subject">bb2abefa9c5701104411ed75e23efd85</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

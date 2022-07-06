@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_datasource_filter">
+    <sys_ux_composite_datasource_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_condition/>
+        <condition/>
+        <datasource display_value="Team Contact User">772abefa9c570110591a6e7404039a5c</datasource>
+        <datasource_table>sys_user</datasource_table>
+        <filter display_value="SAVED">7f2abefaa9570110acfd2026ab75e05b</filter>
+        <name>Saved Contacts</name>
+        <sys_class_name>sys_ux_composite_datasource_filter</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:31</sys_created_on>
+        <sys_id>3b2abefab55701107c5406ef87fdd65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Saved Contacts</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_ux_composite_datasource_filter_3b2abefab55701107c5406ef87fdd65b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:31</sys_updated_on>
+    </sys_ux_composite_datasource_filter>
+</record_update>

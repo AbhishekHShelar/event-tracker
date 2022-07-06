@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Note">b72abefacd570110b74c9bf482f3e784</button>
+        <item_parameter display_value="Note">f32abefacd5701101937e32ee5096784</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:22</sys_created_on>
+        <sys_id>3b2abefabc570110b0fa22641465ea84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f32abefacd5701101937e32ee5096784</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3b2abefabc570110b0fa22641465ea84</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:22</sys_updated_on>
+        <ui_parameter display_value="Note">f72abefaf75701107f89dbb63d703e84</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

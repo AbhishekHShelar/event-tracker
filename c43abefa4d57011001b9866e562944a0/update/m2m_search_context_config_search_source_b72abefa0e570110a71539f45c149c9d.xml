@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <search_context_config display_value="Team Contact Search Configuration">7b2abefa2e57011066022b3cdb79379d</search_context_config>
+        <source display_value="People">a90c3bf387322300b081717936cb0bca</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:17</sys_created_on>
+        <sys_id>b72abefa0e570110a71539f45c149c9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_b72abefa0e570110a71539f45c149c9d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:17</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

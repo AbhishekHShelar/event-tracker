@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My Favorites">ff2abefada57011069c7ba808915817b</data_item>
+        <interleaved_field/>
+        <name>Favorites Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:43</sys_created_on>
+        <sys_id>b72abefa8d570110be26cb77f74b7877</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Favorites Item Stream</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_item_stream_b72abefa8d570110be26cb77f74b7877</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:43</sys_updated_on>
+        <table>x_808219_btfu_relationship_contact</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Add Reminder">b72abefa12570110757f9a6b878e2285</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Add Reminder</label>
+        <location>top</location>
+        <name>Add Reminder</name>
+        <order>20</order>
+        <parent>b32abefaf55701108a93254b6bf83d7f</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:38</sys_created_on>
+        <sys_id>3f2abefa7c5701105252a9fdd4a1767d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Reminder</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3f2abefa7c5701105252a9fdd4a1767d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:38</sys_updated_on>
+        <table>x_808219_btfu_relationship_contact</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3f2abefa7c5701105252a9fdd4a1767d"/>
+</record_update>

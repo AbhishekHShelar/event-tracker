@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_facet">
+    <sys_search_facet action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_facet_name>sys_user.location</ais_facet_name>
+        <label>Location</label>
+        <name>Location</name>
+        <option_limit>10</option_limit>
+        <order>200</order>
+        <search_context_config display_value="Team Contact Search Configuration">7b2abefa2e57011066022b3cdb79379d</search_context_config>
+        <sys_class_name>sys_search_facet</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:34</sys_created_on>
+        <sys_id>ff2abefa375701107e50305a7da8aa89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user.location</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_search_facet_ff2abefa375701107e50305a7da8aa89</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:34</sys_updated_on>
+    </sys_search_facet>
+</record_update>

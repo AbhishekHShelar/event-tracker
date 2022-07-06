@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="UnSave Contact">b72abefa72570110c874a4bf38004d80</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Remove Contact From Favorites</label>
+        <location>top</location>
+        <name>Remove Contact From Favorites</name>
+        <order>40</order>
+        <parent>f72abefac157011048ee7b977f337c7d</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:11</sys_created_on>
+        <sys_id>b72abefa75570110d6b9b2c63adb937c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Remove Contact From Favorites</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b72abefa75570110d6b9b2c63adb937c</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:11</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b72abefa75570110d6b9b2c63adb937c"/>
+</record_update>

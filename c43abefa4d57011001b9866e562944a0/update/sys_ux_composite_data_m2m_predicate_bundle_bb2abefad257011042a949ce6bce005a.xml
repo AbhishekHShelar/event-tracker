@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Team Contact  Reminders/Notes">332abefa18570110c21b6e27043ca65c</dataset>
+        <order>100</order>
+        <predicate_bundle display_value="Team contact - notes">ff2abefaa7570110d843d243e4a5665a</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:35</sys_created_on>
+        <sys_id>bb2abefad257011042a949ce6bce005a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_bb2abefad257011042a949ce6bce005a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:35</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

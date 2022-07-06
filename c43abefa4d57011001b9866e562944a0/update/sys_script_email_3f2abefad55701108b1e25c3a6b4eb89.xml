@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>x_808219_btfu_team_contact_url</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+    var companyCode = gs.getProperty("glide.appcreator.company.code");
+    var instance_url = gs.getProperty('glide.servlet.uri');
+   
+    var link = "<a class='btn btn-primary' href='" + instance_url + "x/808219/x_808219_btfu/profile-landing/" + current.contact.contact_name;
+    link = link + "' target='_team_contact'>VIEW CONTACT</a>";
+    template.print(link);
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-05-10 11:44:32</sys_created_on>
+        <sys_id>3f2abefad55701108b1e25c3a6b4eb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_808219_btfu_team_contact_url</sys_name>
+        <sys_package display_value="btfu" source="x_808219_btfu">c43abefa4d57011001b9866e562944a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="btfu">c43abefa4d57011001b9866e562944a0</sys_scope>
+        <sys_update_name>sys_script_email_3f2abefad55701108b1e25c3a6b4eb89</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-05-10 11:44:32</sys_updated_on>
+    </sys_script_email>
+</record_update>
